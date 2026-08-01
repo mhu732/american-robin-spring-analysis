@@ -1,0 +1,3 @@
+# ignore the original datasets because they are very large
+data/ebd_US-NC_amerob_202101_202512_smp_relJun-2026_sampling.txt
+data/ebd_US-NC_amerob_202101_202512_smp_relJun-2026.txt
