@@ -1,4 +1,4 @@
-In the United States, American Robins are considered to be the first signs of spring, despite being present year-round. Using data from eBird about American Robin observations from 2021-2026 in North Carolina, I wanted to explore if American Robins are reported more often at the beginning of spring than other times of the year. 
+In the United States, American Robins are considered to be the first signs of spring, despite being present year-round. Using data from eBird about American Robin observations from 2021-2026 in North Carolina, I wanted to explore if American Robins are observed more often at the beginning of spring than other times of the year. 
 
 I used Python, specifically the Matplotlib and Pandas libraries, which I learned from my DATASCI 151 (Introduction to Statistical Computing II) class at Emory University. To read my final report, which contains all my code and explanations, click [here](american-robin.ipynb).
 
