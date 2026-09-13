@@ -1,3 +1,5 @@
-This is my GitHub repository for my analysis of American Robin sightings from 2021-2025 in North Carolina using data from eBird. It contains the Jupyter Notebook document with my final report, which includes all my code and explanations about what I did. I used Python, specifically the Matplotlib and Pandas libraries. To read it, click [here](american-robin.ipynb).
+In the United States, American Robins are considered to be the first signs of spring, despite being present year-round. Using data from eBird about American Robin observations from 2021-2026 in North Carolina, I wanted to explore if American Robins are reported more often at the beginning of spring than other times of the year. 
+
+I used Python, specifically the Matplotlib and Pandas libraries, which I learned from my DATASCI 151 (Introduction to Statistical Computing II) class at Emory University. To read my final report, which contains all my code and explanations, click [here](american-robin.ipynb).
 
 Unfortunately, the txt files containing the data I used for this project were too big to upload to GitHub, which is why I added them to the .gitignore file. If you would like to see the data I used, please email me.
