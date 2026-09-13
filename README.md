@@ -1,1 +1,3 @@
-# american-robin-spring-analysis
+This is my GitHub repository for my analysis. It contains the Jupyter Notebook document with my final report, which includes all my code and explanations about what I did. To read it, click [here](american-robin.ipynb).
+
+Unfortunately, the txt files containing the data I used for this project were too big to upload to GitHub, which is why I added them to the .gitignore file. If you would like to see the data I used, please contact me.
